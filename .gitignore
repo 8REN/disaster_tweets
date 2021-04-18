@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+word_expansion.ipynb
+word_expansion .py
+utils/__init__.py
+utils/word_expansion .py
