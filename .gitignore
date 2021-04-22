@@ -118,3 +118,4 @@ utils/__init__.py
 utils/word_expansion .py
 preprocess_text-Copy.ipynb
 word_expansion.py
+*.csv
