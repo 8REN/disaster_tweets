@@ -7,65 +7,61 @@
 5,CO,Colorado
 6,CT,Connecticut
 7,DC,District of Columbia
-8,DE,Delaware
-9,FL,Florida
-10,GA,Georgia
-11,GU,Guam
-12,HI,Hawaii
-13,IA,Iowa
-14,ID,Idaho
-15,IL,Illinois
-16,IN,Indiana
-17,KS,Kansas
-18,KY,Kentucky
-19,LA,Louisiana
-20,MA,Massachusetts
-21,MD,Maryland
-22,ME,Maine
-23,MI,Michigan
-24,MN,Minnesota
-25,MO,Missouri
-26,MP,Northern Mariana Islands
-27,MS,Mississippi
-28,MT,Montana
-29,NC,North Carolina
-30,ND,North Dakota
-31,NE,Nebraska
-32,NH,New Hampshire
-33,NJ,New Jersey
-34,NM,New Mexico
-35,NV,Nevada
-36,NY,New York
-37,OH,Ohio
-38,OK,Oklahoma
-39,OR,Oregon
-40,PA,Pennsylvania
-41,PR,Puerto Rico
-42,PW,Palau
-43,RI,Rhode Island
-44,SC,South Carolina
-45,SD,South Dakota
-46,TN,Tennessee
-47,TX,Texas
-48,UT,Utah
-49,VA,Virginia
-50,VI,Virgin Islands
-51,VT,Vermont
-52,WA,Washington
-53,WI,Wisconsin
-54,WV,West Virginia
-55,WY,Wyoming
-56,AB,Alberta
-57,BC,British Columbia
-58,MB,Manitoba
-59,NB,New Brunswick
-60,NL,Newfoundland and Labrador
-61,NS,Nova Scotia
-62,NT,Northwest Territories
-63,NU,Nunavut
-64,ON,Ontario
-65,PE,Prince Edward Island
-66,QC,Quebec
-67,SK,Saskatchewan
-68,YT,Yukon
-69,UK,United Kingdom
+8,FL,Florida
+9,GA,Georgia
+10,GU,Guam
+11,HI,Hawaii
+12,IA,Iowa
+13,ID,Idaho
+14,IL,Illinois
+15,KS,Kansas
+16,KY,Kentucky
+17,LA,Louisiana
+18,MA,Massachusetts
+19,MD,Maryland
+20,MI,Michigan
+21,MN,Minnesota
+22,MO,Missouri
+23,MP,Northern Mariana Islands
+24,MS,Mississippi
+25,MT,Montana
+26,NC,North Carolina
+27,ND,North Dakota
+28,NE,Nebraska
+29,NH,New Hampshire
+30,NJ,New Jersey
+31,NM,New Mexico
+32,NV,Nevada
+33,NY,New York
+34,OH,Ohio
+35,OK,Oklahoma
+36,PA,Pennsylvania
+37,PR,Puerto Rico
+38,PW,Palau
+39,RI,Rhode Island
+40,SC,South Carolina
+41,SD,South Dakota
+42,TN,Tennessee
+43,TX,Texas
+44,UT,Utah
+45,VA,Virginia
+46,VI,Virgin Islands
+47,VT,Vermont
+48,WA,Washington
+49,WI,Wisconsin
+50,WV,West Virginia
+51,WY,Wyoming
+52,AB,Alberta
+53,BC,British Columbia
+54,MB,Manitoba
+55,NB,New Brunswick
+56,NL,Newfoundland and Labrador
+57,NS,Nova Scotia
+58,NT,Northwest Territories
+59,NU,Nunavut
+60,ON,Ontario
+61,PE,Prince Edward Island
+62,QC,Quebec
+63,SK,Saskatchewan
+64,YT,Yukon
+65,UK,United Kingdom
