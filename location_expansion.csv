@@ -7,61 +7,66 @@
 5,CO,Colorado
 6,CT,Connecticut
 7,DC,District of Columbia
-8,FL,Florida
-9,GA,Georgia
-10,GU,Guam
-11,HI,Hawaii
-12,IA,Iowa
-13,ID,Idaho
-14,IL,Illinois
-15,KS,Kansas
-16,KY,Kentucky
-17,LA,Louisiana
-18,MA,Massachusetts
-19,MD,Maryland
-20,MI,Michigan
-21,MN,Minnesota
-22,MO,Missouri
-23,MP,Northern Mariana Islands
-24,MS,Mississippi
-25,MT,Montana
-26,NC,North Carolina
-27,ND,North Dakota
-28,NE,Nebraska
-29,NH,New Hampshire
-30,NJ,New Jersey
-31,NM,New Mexico
-32,NV,Nevada
-33,NY,New York
-34,OH,Ohio
-35,OK,Oklahoma
-36,PA,Pennsylvania
-37,PR,Puerto Rico
-38,PW,Palau
-39,RI,Rhode Island
-40,SC,South Carolina
-41,SD,South Dakota
-42,TN,Tennessee
-43,TX,Texas
-44,UT,Utah
-45,VA,Virginia
-46,VI,Virgin Islands
-47,VT,Vermont
-48,WA,Washington
-49,WI,Wisconsin
-50,WV,West Virginia
-51,WY,Wyoming
-52,AB,Alberta
-53,BC,British Columbia
-54,MB,Manitoba
-55,NB,New Brunswick
-56,NL,Newfoundland and Labrador
-57,NS,Nova Scotia
-58,NT,Northwest Territories
-59,NU,Nunavut
-60,ON,Ontario
-61,PE,Prince Edward Island
-62,QC,Quebec
-63,SK,Saskatchewan
-64,YT,Yukon
-65,UK,United Kingdom
+8,DE,Delaware
+9,FL,Florida
+10,GA,Georgia
+11,GU,Guam
+12,HI,Hawaii
+13,IA,Iowa
+14,ID,Idaho
+15,IL,Illinois
+16,KS,Kansas
+17,KY,Kentucky
+18,LA,Louisiana
+19,MA,Massachusetts
+20,MD,Maryland
+21,ME,Maine
+22,MI,Michigan
+23,MN,Minnesota
+24,MO,Missouri
+25,MP,Northern Mariana Islands
+26,MS,Mississippi
+27,MT,Montana
+28,NC,North Carolina
+29,ND,North Dakota
+30,NE,Nebraska
+31,NH,New Hampshire
+32,NJ,New Jersey
+33,NM,New Mexico
+34,NV,Nevada
+35,NY,New York
+36,OH,Ohio
+37,OK,Oklahoma
+38,OR,Oregon
+39,PA,Pennsylvania
+40,PR,Puerto Rico
+41,PW,Palau
+42,RI,Rhode Island
+43,SC,South Carolina
+44,SD,South Dakota
+45,TN,Tennessee
+46,TX,Texas
+47,UT,Utah
+48,VA,Virginia
+49,VI,Virgin Islands
+50,VT,Vermont
+51,WA,Washington
+52,WI,Wisconsin
+53,WV,West Virginia
+54,WY,Wyoming
+55,AB,Alberta
+56,BC,British Columbia
+57,MB,Manitoba
+58,NB,New Brunswick
+59,NL,Newfoundland and Labrador
+60,NS,Nova Scotia
+61,NT,Northwest Territories
+62,NU,Nunavut
+63,ON,Ontario
+64,PE,Prince Edward Island
+65,QC,Quebec
+66,SK,Saskatchewan
+67,YT,Yukon
+68,UK,United Kingdom
+69,USA,United States
+70,U.S.A,United States
