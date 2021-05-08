@@ -127,3 +127,4 @@ w2v_pt_wv.wordvectors
 word2vec.model
 word2vec.wordvectors
 preprocessupdatesave.ipynb
+preprocess_textL.ipynb
