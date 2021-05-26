@@ -137,3 +137,11 @@ preprocess_text-Copy5.ipynb
 train_sc_processed
 train_tokenized
 docVecModel.d2v
+best_model.h5
+doc2vec.ipynb
+glove.6B.100d.txt
+spell_check.ipynb
+w2v_ui.wordvectors
+w2v_ui.model
+spell_check.ipynb
+spell_check.ipynb
