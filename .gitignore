@@ -120,7 +120,7 @@ preprocess_text-Copy.ipynb
 word_expansion.py
 *.csv
 preprocess_text-Copy1.ipynb
-process_text.ipynb
+
 w2v.model
 w2v_pt.model
 w2v_pt_wv.wordvectors
