@@ -151,3 +151,5 @@ train_clean
 train_processed
 doc2vec-Copy1.ipynb
 utils/test_word2vec.txt
+clean_text.ipynb
+utils/glove.6B.50d.txt
